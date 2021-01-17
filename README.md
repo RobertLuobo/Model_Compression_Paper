@@ -234,7 +234,7 @@
 
 https://github.com/he-y/Awesome-Pruning#2018
 
-
+https://github.com/MingSun-Tse/EfficientDNNs
 
 ### Papers-Lottery Ticket Hypothesis (LTH)
 
