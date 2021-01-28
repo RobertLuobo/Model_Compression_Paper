@@ -1,0 +1,102 @@
+ICLR 2021  [ICLR 2021 Conference | OpenReview](https://openreview.net/group?id=ICLR.cc/2021/Conference#oral-presentations)
+
+Please see the venue website for more information.
+
+**Abstract Submission End:** Sep 28 2020 03:00PM UTC-0
+
+**Paper Submission End:** Oct 2 2020 03:00PM UTC-0
+
+**Accepted Data:** Jan  1  2021 
+
+
+
+**ICLR 2021 Pruning**
+
+|                                                              |      |
+| ------------------------------------------------------------ | ---- |
+| [Neural Pruning via Growing Regularization ](https://openreview.net/forum?id=o966_Is_nPA) |      |
+| [ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations ](https://openreview.net/forum?id=xCxXwTzx4L1) |      |
+| [Robust Pruning at Initialization ](https://openreview.net/forum?id=vXj_ucZQ4hA) |      |
+| [Progressive Skeletonization: Trimming more fat from a network at initialization](https://openreview.net/forum?id=9GsFOUyUPi) |      |
+| [Network Pruning That Matters: A Case Study on Retraining Variants ](https://openreview.net/forum?id=Cb54AMqHQFP) |      |
+| [Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning](https://openreview.net/forum?id=LXMSvPmsm0g) |      |
+| [Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv) |      |
+| [Pruning Neural Networks at Initialization: Why Are We Missing the Mark? ](https://openreview.net/forum?id=Ig-VyQc-MLK) |      |
+| [Multiplicative Filter Networks ](https://openreview.net/forum?id=OmtmcPkkhT) |      |
+| [Network Pruning That Matters: A Case Study on Retraining Variants ](https://openreview.net/forum?id=Cb54AMqHQFP) |      |
+| [Layer-adaptive Sparsity for the Magnitude-based Pruning ](https://openreview.net/forum?id=H6ATjJ0TKdf) |      |
+|                                                              |      |
+|                                                              |      |
+|                                                              |      |
+
+
+
+
+
+**ICLR 2021 Quantization**
+
+|                                                              |      |
+| :----------------------------------------------------------- | ---- |
+| [WrapNet: Neural Net Inference with Ultra-Low-Precision Arithmetic ](https://openreview.net/forum?id=3SqrRe8FWQ-) |      |
+| [BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction](https://openreview.net/forum?id=POWv6hDd9XH) |      |
+| [Training with Quantization Noise for Extreme Model Compression](https://openreview.net/forum?id=dV19Yyi1fS3) |      |
+| [Lossless Compression of Structured Convolutional Models via Lifting ](https://openreview.net/forum?id=oxnp2q-PGL4) |      |
+| [Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks ](https://openreview.net/forum?id=sTeoJiB4uR) |      |
+| [BiPointNet: Binary Neural Network for Point Clouds](https://openreview.net/forum?id=9QLRCVysdlO) |      |
+| [SAFENet: A Secure, Accurate and Fast Neural Network Inference](https://openreview.net/forum?id=Cz3dbFm5u-) |      |
+| [Neural gradients are near-lognormal: improved quantized and sparse training ](https://openreview.net/forum?id=EoFNy62JGd) |      |
+| [Degree-Quant: Quantization-Aware Training for Graph Neural Networks ](https://openreview.net/forum?id=NSBrFgJAHg) |      |
+| [BSQ: Exploring Bit-Level Sparsity for Mixed-Precision Neural Network Quantization ](https://openreview.net/forum?id=TiXl51SCNw8) |      |
+| [Simple Augmentation Goes a Long Way: ADRL for DNN Quantization ](https://openreview.net/forum?id=Qr0aRliE_Hb) |      |
+
+
+
+
+
+**ICLR 2021 Distillation**
+
+|                                                              |      |
+| ------------------------------------------------------------ | ---- |
+| [Free Lunch for Few-shot Learning: Distribution Calibration](https://openreview.net/forum?id=JWOiYxMG92s) |      |
+| [Knowledge distillation via softmax regression representation learning ](https://openreview.net/forum?id=ZzwDy_wiWv) |      |
+| [Improve Object Detection with Feature-based Knowledge Distillation: Towards Accurate and Efficient Detectors](https://openreview.net/forum?id=uKhGRvM8QNH) |      |
+| [SEED: Self-supervised Distillation For Visual Representation ](https://openreview.net/forum?id=AHm3dbp7D1D) |      |
+| [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks ](https://openreview.net/forum?id=9l0K4OM-oXE) |      |
+| [A teacher-student framework to distill future trajectories ](https://openreview.net/forum?id=ECuvULjFQia) |      |
+| [Knowledge Distillation as Semiparametric Inference](https://openreview.net/forum?id=m4UCf24r0Y) |      |
+|                                                              |      |
+|                                                              |      |
+
+
+
+
+
+**ICLR 2021 Other**
+
+| [AdaSpeech: Adaptive Text to Speech for Custom Voice ](https://openreview.net/forum?id=Drynvt7gg4L) |      |
+| ------------------------------------------------------------ | ---- |
+| [End-to-end Adversarial Text-to-Speech ](https://openreview.net/forum?id=rsf1z-JSj87) |      |
+| [Rethinking Architecture Selection in Differentiable NAS ](https://openreview.net/forum?id=PKubaeJkw3) |      |
+| [Parrot: Data-Driven Behavioral Priors for Reinforcement Learning](https://openreview.net/forum?id=Ysuv-WOFeKR) |      |
+| [Neural Synthesis of Binaural Speech ](https://openreview.net/forum?id=uAX8q61EVRu) |      |
+| [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://openreview.net/forum?id=a-xFK8Ymz5J) |      |
+| [Evolving Reinforcement Learning Algorithms ](https://openreview.net/forum?id=0XXpJ4OtjW) |      |
+| [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://openreview.net/forum?id=gZ9hCDWe6ke) |      |
+| [Why Are Convolutional Nets More Sample-Efficient than Fully-Connected Nets? ](https://openreview.net/forum?id=uCY5MuAxcxU) |      |
+| [Geometry-Aware Gradient Algorithms for Neural Architecture Search ](https://openreview.net/forum?id=MuSYkd1hxRP) |      |
+| [Data-Efficient Reinforcement Learning with Self-Predictive Representations ](https://openreview.net/forum?id=uCQfPZwRaUu) |      |
+| [How Much Over-parameterization Is Sufficient to Learn Deep ReLU Networks?](https://openreview.net/forum?id=fgd7we_uZa6) |      |
+| [LEAF: A Learnable Frontend for Audio Classification](https://openreview.net/forum?id=jM76BCb6F9m) |      |
+| [Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation](https://openreview.net/forum?id=uR9LaO_QxF) |      |
+| [Bag of Tricks for Adversarial Training ](https://openreview.net/forum?id=Xb8xvrtB8Ce) |      |
+| [Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth ](https://openreview.net/forum?id=KJNcAkY8tY4) |      |
+| [Is Label Smoothing Truly Incompatible with Knowledge Distillation: An Empirical Study](https://openreview.net/forum?id=PObuuGVrGaZ) |      |
+| [Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration](https://openreview.net/forum?id=1rxHOBjeDUW) |      |
+| [LiftPool: Bidirectional ConvNet Pooling ](https://openreview.net/forum?id=kE3vd639uRW) |      |
+| [More or Less: When and How to Build Convolutional Neural Network Ensembles](https://openreview.net/forum?id=z5Z023VBmDZ) |      |
+| [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://openreview.net/forum?id=Ig53hpHxS4) |      |
+| [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://openreview.net/forum?id=piLPYqxtWuA) |      |
+| [NAS-Bench-ASR: Reproducible Neural Architecture Search for Speech Recognition](https://openreview.net/forum?id=CU0APx9LMaL) |      |
+| [Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech](https://openreview.net/forum?id=o3iritJHLfO) |      |
+|                                                              |      |
+
